@@ -1,0 +1,17 @@
+﻿  pch.cpp
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(75,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MySort<_Ty,quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>>(T *,T *,Compare)"
+          with
+          [
+              _Ty=int,
+              T=int,
+              Compare=quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(88,1): error C2664: "bool SortTest_stringSort_Test::TestBody::<lambda_7d7f83ffb28cd72b69df237e181851d4>::operator ()(std::string &,std::string &) const": невозможно преобразовать аргумент 2 из "int" в "std::string &"
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(175,9): message : см. объявление "SortTest_stringSort_Test::TestBody::<lambda_7d7f83ffb28cd72b69df237e181851d4>::operator ()"
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(92,1): error C2664: "bool SortTest_stringSort_Test::TestBody::<lambda_7d7f83ffb28cd72b69df237e181851d4>::operator ()(std::string &,std::string &) const": невозможно преобразовать аргумент 1 из "int" в "std::string &"
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(175,9): message : см. объявление "SortTest_stringSort_Test::TestBody::<lambda_7d7f83ffb28cd72b69df237e181851d4>::operator ()"
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(88,1): error C2664: "bool SortTest_stringSortDesc_Test::TestBody::<lambda_46bbfe185187e21b122b10707f795161>::operator ()(std::string &,std::string &) const": невозможно преобразовать аргумент 2 из "int" в "std::string &"
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(199,9): message : см. объявление "SortTest_stringSortDesc_Test::TestBody::<lambda_46bbfe185187e21b122b10707f795161>::operator ()"
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(92,1): error C2664: "bool SortTest_stringSortDesc_Test::TestBody::<lambda_46bbfe185187e21b122b10707f795161>::operator ()(std::string &,std::string &) const": невозможно преобразовать аргумент 1 из "int" в "std::string &"
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(199,9): message : см. объявление "SortTest_stringSortDesc_Test::TestBody::<lambda_46bbfe185187e21b122b10707f795161>::operator ()"

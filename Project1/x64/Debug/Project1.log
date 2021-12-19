@@ -1,0 +1,47 @@
+﻿  application.cpp
+C:\Users\natah\Downloads\application.cpp(29,18): warning C4244: =: преобразование "LONGLONG" в "double", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(75,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\natah\Downloads\application.cpp(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MySort<_Ty,main::<lambda_2>>(T *,T *,Compare)"
+          with
+          [
+              _Ty=int,
+              T=int,
+              Compare=main::<lambda_2>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(37,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\natah\Downloads\application.cpp(112): message : выполняется компиляция ссылки на экземпляр шаблон функции "void privateMethods::InsertingSort<_Ty,main::<lambda_3>>(T *,T *,Compare)"
+          with
+          [
+              _Ty=int,
+              T=int,
+              Compare=main::<lambda_3>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(20,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(83): message : выполняется компиляция ссылки на экземпляр шаблон функции "int privateMethods::partition<T>(T *,T *)"
+          with
+          [
+              T=int
+          ]
+  laba3.cpp
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(75,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\laba3.cpp(57): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MySort<int,StandartCheck::<lambda_1>>(T *,T *,Compare)"
+          with
+          [
+              T=int,
+              Compare=StandartCheck::<lambda_1>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(37,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\laba3.cpp(66): message : выполняется компиляция ссылки на экземпляр шаблон функции "void privateMethods::InsertingSort<int,StandartCheck::<lambda_2>>(T *,T *,Compare)"
+          with
+          [
+              T=int,
+              Compare=StandartCheck::<lambda_2>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(20,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(83): message : выполняется компиляция ссылки на экземпляр шаблон функции "int privateMethods::partition<T>(T *,T *)"
+          with
+          [
+              T=int
+          ]
+  Создание кода...
+  Project1.vcxproj -> C:\Users\jelew\source\repos\Project1\x64\Debug\Project1.exe

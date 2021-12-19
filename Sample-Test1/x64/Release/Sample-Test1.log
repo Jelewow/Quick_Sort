@@ -1,0 +1,31 @@
+﻿  pch.cpp
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(57,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Quick_sort::QuickSort<_Ty,quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>>(T *,T *,Compare)"
+          with
+          [
+              _Ty=int,
+              T=int,
+              Compare=quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(19,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto Quick_sort::GetPivot<T>(T *,T *)"
+          with
+          [
+              T=int
+          ]
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(36,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\jelew\source\repos\Project1\Project1\Sort.h(61): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Quick_sort::InsertingSort<T,Compare>(T *,T *,Compare)"
+          with
+          [
+              T=int,
+              Compare=quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>
+          ]
+C:\Users\jelew\source\repos\Project1\Sample-Test1\pch.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Quick_sort::QuickSort<_Ty,quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>>(T *,T *,Compare)"
+          with
+          [
+              _Ty=int,
+              T=int,
+              Compare=quick_sortTest_IntegerArrayExample_01_Test::TestBody::<lambda_f4daf661f419ffbaae9436ea948fe831>
+          ]
+  test.cpp
+  Sample-Test1.vcxproj -> C:\Users\jelew\source\repos\Project1\x64\Release\Sample-Test1.exe

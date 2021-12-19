@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\jelew\source\repos\Project1\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="quick_sortTest.IntegerArrayExample_01" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayExample_02" Duration="1" />
+    <TestDuration Test="SortTest.InitiallySortedIntegerArray" Duration="1" />
+    <TestDuration Test="SortTest.InitiallyReverseSortedIntegerArray" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayWithSameValues" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayWithAllTheSameValuesExceptFirst" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayWithAllTheSameValuesExceptLast" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayWithOutOFOrderElement" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayDescOrderExample_01" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayDescOrderExample_02" Duration="1" />
+    <TestDuration Test="SortTest.IntegerArrayWithWithSingleValue" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
